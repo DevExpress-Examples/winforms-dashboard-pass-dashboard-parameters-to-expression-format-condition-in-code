@@ -10,4 +10,8 @@
 
 <br/>
 
+## Documentation
+
+* [Conditional Formatting](https://docs.devexpress.com/Dashboard/116914/common-features/appearance-customization/conditional-formatting)
+* [Dashboard Parameters](https://docs.devexpress.com/Dashboard/116918)
 
