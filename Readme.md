@@ -11,10 +11,9 @@ This example demonstrates how to pass a dashboard parameter to an expression use
 
 ## Documentation
 
+* [Use Dashboard Parameters with the Expression Format Condition](https://docs.devexpress.com/Dashboard/117090)
 * [Conditional Formatting](https://docs.devexpress.com/Dashboard/116914/common-features/appearance-customization/conditional-formatting)
 * [Dashboard Parameters](https://docs.devexpress.com/Dashboard/116918)
-* [Grid - Conditional Formatting](https://docs.devexpress.com/Dashboard/401933/winforms-dashboard/winforms-designer/create-dashboards-in-the-winforms-designer/dashboard-item-settings/grid/conditional-formatting)
-* [WinForms Viewer - Manage Dashboard Parameters](https://docs.devexpress.com/Dashboard/17632/winforms-dashboard/winforms-viewer/manage-dashboard-parameters)
 
 ## More Examples
 
